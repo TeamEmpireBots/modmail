@@ -77,7 +77,8 @@ class Modmail(commands.Bot):
     def run_wizard():
         '''Wizard for first start'''
         print('------------------------------------------')
-        token = input('Enter your token:\n> ')
+        token = input('Mzc3OTI3MzMyNTYxODEzNTE1.DOUIJA.sRkWwTt0qXcWtIb01MV4U6bVA20
+:\n> ')
         print('------------------------------------------')
         data = {
                 "TOKEN" : token,
